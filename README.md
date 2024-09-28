@@ -4,7 +4,7 @@ I am currently learning Python to transition into Large Language Model domain fr
 
 ## Projects
 
-- [Python Word Frequency Counter](https://github.com/your-username/python-word-frequency): A Python script to count word frequencies in a text file.
+- [Python Word Frequency Counter](https://github.com/kalaivanivelusamy/python-word-frequency): A Python script to count word frequencies in a text file.
 
 <!--
 **kalaivanivelusamy/kalaivanivelusamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
