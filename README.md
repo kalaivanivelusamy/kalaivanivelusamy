@@ -1,6 +1,9 @@
 ### Hi there
 
-I am currently learning Python to transition into Large Language Model domain from iOS application developer.
+I am an iOS mobile application developer experienced in REST applications and also SDK development focused on automotive industries.
+Have experience in CoreBluetooth, CoreLocation, MapKit,SwiftUI,Combine frameworks
+Have worked briefly in Xamarin.ios, C++ (while working on binding projects in iOS for automotive SDK)and Ruby (scripts for pipeline setup)
+Currently learning Python as well.
 
 ## Projects
 
